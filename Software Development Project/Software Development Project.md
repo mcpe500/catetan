@@ -12,10 +12,8 @@
 
 1. Pendahuluan (Latar Belakang, Tujuan, Ruang Lingkup, Gantt Chart, Proyek, Sistematika Pembahasan).
 2. Analisa (Fact Finding, Deskripsi sistem Lama, Analisa Permasalahan, Deskripsi sistem Baru, Analisa Kebutuhan, Spesifikasi Kebutuhan, Test Case)
-
-- Spesifikasi Kebutuhan tidak hanya Master dan Transaksi namun juga Report.
-- Test case dipersiapkan sejak tahap analisa. Apabila ada 20 kebutuhan, maka test case juga 20.
-
+    - Spesifikasi Kebutuhan tidak hanya Master dan Transaksi namun juga Report.
+    - Test case dipersiapkan sejak tahap analisa. Apabila ada 20 kebutuhan, maka test case juga 20.
 3. Desain (Desain Arsitektur, Desain Database (CDM, PDM), Desain Tabel, Desain Interface, Desain Algoritma)
 4. Uji Coba
 5. Penutup
